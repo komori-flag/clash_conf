@@ -2,3 +2,4 @@ payload:
   - 'api.bilibili.tv'
   - 'data.bilibili.tv'
   - 'www.bilibili.tv'
+  - 'bulianglin.com'
