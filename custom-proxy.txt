@@ -3,3 +3,8 @@ payload:
   - 'data.bilibili.tv'
   - 'www.bilibili.tv'
   - 'bulianglin.com'
+  - 'mikanani.me'
+  - 'misaka.rest'
+  - 'interserver.net'
+  - 'servarica.com'
+  
