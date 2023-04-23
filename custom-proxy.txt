@@ -6,5 +6,5 @@ payload:
   - 'mikanani.me'
   - 'misaka.rest'
   - 'interserver.net'
-  - 'servarica.com'
-  - 'livechatinc.com'
+  - 'clients.servarica.com'
+  - 'api.livechatinc.com'
