@@ -7,4 +7,4 @@ payload:
   - 'misaka.rest'
   - 'interserver.net'
   - 'servarica.com'
-  
+  - 'livechatinc.com'
