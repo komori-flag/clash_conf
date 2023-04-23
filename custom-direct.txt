@@ -1,3 +1,2 @@
 payload:
   - 'edge.microsoft.com'
-  - 'www.beian.gov.cn'
