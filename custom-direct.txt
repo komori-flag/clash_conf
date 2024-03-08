@@ -1,2 +1,4 @@
 payload:
   - 'edge.microsoft.com'
+  - 'injections.adguard.org',
+  - 'injections.adguard.org'

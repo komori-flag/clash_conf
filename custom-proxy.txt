@@ -6,3 +6,4 @@ payload:
   - '+.interserver.net'
   - '+.servarica.com'
   - '+.livechatinc.com'
+  - '+.bing.com'
